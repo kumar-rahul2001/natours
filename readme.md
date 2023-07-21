@@ -1,5 +1,3 @@
-![natours 4](https://github.com/kumar-rahul2001/natours-api/assets/90920811/1217a92c-222a-4a7a-a2d2-ff681d237354)
-![natours 3](https://github.com/kumar-rahul2001/natours-api/assets/90920811/ae7984e1-020a-4bea-b35e-160763f576c0)
 # Natours API
 
 ### Technologies Used
@@ -28,11 +26,9 @@
 
 #### Screenshot-1
 ![natours 1](https://github.com/kumar-rahul2001/natours-api/assets/90920811/ba58d113-c394-4044-9dbe-88391c6815e3)
-
 #### Screenshot-2
 ![natours 2](https://github.com/kumar-rahul2001/natours-api/assets/90920811/ec3d0cf5-dc41-45a2-8573-51e2aa49d3c1)
 #### Screenshot-3
 ![natours 3](https://github.com/kumar-rahul2001/natours-api/assets/90920811/b387f242-0aec-4966-b1c4-d770fb188d95)
-
 #### Screenshot-4
 ![natours 4](https://github.com/kumar-rahul2001/natours-api/assets/90920811/8252fff4-8ff9-4cc8-94bb-9d7261517dff)
